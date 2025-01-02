@@ -14,7 +14,7 @@ Ensure you have the following installed on your system:
 
     ```bash
     git clone https://github.com/nishanthnaa52/Todo-fontend.git
-    cd TodoReactDjango/Todo-frontend
+    cd Todo-frontend
     ```
 
 2. **Install Dependencies**
