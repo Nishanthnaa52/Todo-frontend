@@ -47,6 +47,3 @@ npm run build
 
 This will generate optimized static files in the `build` directory.
 
-## Troubleshooting
-
-If you encounter any issues, ensure that all dependencies are correctly installed and that you are using the correct versions of Node.js and npm.
