@@ -56,7 +56,7 @@ const App = () => {
 
     return (
         <div className="container">
-            <h1>Todo List</h1>
+            <h1>Public Todo List</h1>
 
             {/* Form to Add a New Todo */}
             <form onSubmit={addTodo} className="add-todo-form">
