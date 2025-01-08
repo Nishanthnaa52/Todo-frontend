@@ -97,7 +97,7 @@ const App = () => {
                             <p>
                                 <strong>Completed:</strong> {todo.completed ? 'Yes' : 'No'}
                             </p>
-{/*                             <button onClick={() => deleteTodo(todo.id)}>Delete</button> */}
+                            <button onClick={() => deleteTodo(todo.id)}>Delete</button>
                         </li>
                     ))}
                 </ul>
